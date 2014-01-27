@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="TurneroCentroMED.Departamento" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Departamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.ListaDepartamento" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Departamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.Estudio" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAAAAAACAAAAAAgAACAAAAAAAAgAAAAAIAAAA=</HashCode>
+      <FileName>Entidades\Estudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.ListaEstudios" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAAAACA=</HashCode>
+      <FileName>Entidades\Estudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.Paciente" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAgAAAIgAAACAAAAAAAQAgAAAAAACAAAAAAIA=</HashCode>
+      <FileName>Entidades\Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.ListaPaciente" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Entidades\Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.SavedData" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\SavedData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.Entidades.DiccionarioDept" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\DiccionarioDept.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurneroCentroMED.Entidades.Funciones" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Funciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

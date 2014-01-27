@@ -1,0 +1,45 @@
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.config
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.pdb
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\bin\Debug\ResourcesBDD.accdb
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.application
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.pdb
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.FrmPrincipal.resources
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Properties.Resources.resources
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Desktop\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.application
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\bin\Debug\ResourcesBDD.accdb
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.config
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.manifest
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.application
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.pdb
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.FrmPrincipal.resources
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Properties.Resources.resources
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe.manifest
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.application
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe
+C:\Users\MIke\Desktop\Programacion\Programacion I\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.pdb
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.config
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.pdb
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\bin\Debug\ResourcesBDD.accdb
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.manifest
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.application
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\bin\Debug\TurneroCentroMED.pdb
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.FrmPrincipal.resources
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Properties.Resources.resources
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe.manifest
+C:\Users\MIke\Dropbox\TMED Server\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.application
