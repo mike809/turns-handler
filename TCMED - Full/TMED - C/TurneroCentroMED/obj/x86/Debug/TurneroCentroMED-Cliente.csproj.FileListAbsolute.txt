@@ -1,0 +1,35 @@
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.config
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.pdb
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.application
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.pdb
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\bin\Debug\TimeDisplayLong.dll
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\bin\Debug\TimeDisplayLong.pdb
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED-Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Form_CreateNewUser.resources
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Form_Login.resources
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Form_Opt_About.resources
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.FrmPrincipal.resources
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Properties.Resources.resources
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED-Cliente.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Desktop\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.application
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.config
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.pdb
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.application
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.exe
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\bin\Debug\TurneroCentroMED.pdb
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\bin\Debug\TimeDisplayLong.pdb
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED-Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Form_CreateNewUser.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Form_Login.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Form_Opt_About.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.FrmPrincipal.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.Properties.Resources.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED-Cliente.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - C\TurneroCentroMED\obj\x86\Debug\TurneroCentroMED.application

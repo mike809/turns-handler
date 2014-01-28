@@ -1,0 +1,13 @@
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\bin\Release\TurneroCentroMED.exe.config
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\bin\Release\ResourcesBDD.accdb
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\bin\Release\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\bin\Release\TurneroCentroMED.application
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\bin\Release\TurneroCentroMED.exe
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\bin\Release\TurneroCentroMED.pdb
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\obj\x86\Release\TurneroCentroMED.FrmPrincipal.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\obj\x86\Release\TurneroCentroMED.Properties.Resources.resources
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\obj\x86\Release\TCMED-Server.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\obj\x86\Release\TurneroCentroMED.exe.manifest
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\obj\x86\Release\TurneroCentroMED.application
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\obj\x86\Release\TurneroCentroMED.exe
+C:\Users\Richard\Documents\Microsoft Office 2010 Save Folder\PROGRAMMING\Proyectos\Proyectos de Programacion 1\TCMED\TCMED - F\TMED - S\TurneroCentroMED\obj\x86\Release\TurneroCentroMED.pdb
