@@ -1,6 +1,16 @@
 turns-handler
 =============
 
+How to use:
+
+1- Install driver
+2- Run server
+3- Run Client and login
+
+Login guest credentials:
+1- username: mike,    password: durakuzz1
+2- username: richddr, password: durakuzz
+
 Program to manage the turns of people in medical exams.
 
 This is a client-server desktop application intended to be
