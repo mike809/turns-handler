@@ -13,7 +13,7 @@ Login guest credentials:
 
 Program to manage the turns of people in medical exams.
 
-This is a client-server desktop application intended to be
+This is a client-server desktop (Windows Form) application intended to be
 used by medical centers to enable multiple people to serve
 patients at the same time.
 
@@ -26,3 +26,6 @@ with another exam from that department or another exam from
 the same patient.
 
 We used Access database and Sockets to create the connections.
+
+Created By: Michael Romano - github.com/mike809
+            Richard Garcia - github.com/richddr
