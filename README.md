@@ -8,7 +8,7 @@ How to use:
 3- Run Client and login
 
 Login guest credentials:
-1- username: mike,    password: durakuzz1
+1- username: mike,    password: durakuzz1 /n
 2- username: richddr, password: durakuzz
 
 Program to manage the turns of people in medical exams.
