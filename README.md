@@ -8,7 +8,7 @@ How to use:
 3- Run Client and login
 
 Login guest credentials:
-1- username: mike,    password: durakuzz1 /n
+1- username: mike,    password: durakuzz1
 2- username: richddr, password: durakuzz
 
 Program to manage the turns of people in medical exams.
@@ -24,3 +24,5 @@ patients exams, it look for an empty space in the schedule
 where it can fit the exam, making sure it doesn't overlap
 with another exam from that department or another exam from
 the same patient.
+
+We used Access database and Sockets to create the connections.
